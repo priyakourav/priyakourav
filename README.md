@@ -65,18 +65,11 @@ I regularly practice and build projects to strengthen my coding fundamentals:
 - **Admin_dashboard** – Dashboard UI with HTML  
 - **3D_LAYER_HOVER / CSS-Practice / glassmorphism-css-ui** – UI design and CSS experiments
 
-*(These repositories show consistency in learning and exploration.)* 
-
-
-##  GitHub Stats
-
-![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyakourav&show_icons=true&theme=radical)
-
 
 ##  Career Goal
 
-I’m actively building my skills toward internships in **AI & Machine Learning** and **Software Development** roles — with a focus on projects that solve real problems.
-
+My goal is to become a Software Developer with AI expertise, creating real-world applications that leverage artificial intelligence 
+to solve practical problems efficiently. I focus on combining strong coding skills with AI/ML techniques to deliver impactful software solutions.
 
 ## 📫 Connect With Me
 
