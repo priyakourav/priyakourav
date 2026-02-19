@@ -22,7 +22,7 @@ C++, Python, C, HTML, CSS, JavaScript(currently working on it )
  NumPy ,Pandas (learning)
 
 **Web Development:**  
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript (currently deepening my JavaScript skills)
 
 **Tools & Platforms:**  
 VS Code, Git & GitHub, LeetCode , Hackerrank
