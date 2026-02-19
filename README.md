@@ -8,10 +8,10 @@
 
 ##  About Me
 
-I am a passionate and motivated computer science student specializing in AI & Machine Learning.  
-I enjoy learning new technologies, building projects, and improving my skills in Python, web development, and data science.  
-I use GitHub as my practice room — where I break, build, and learn! 
-
+I’m a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, with a strong interest in
+software development and problem-solving. I actively practice Data Structures and Algorithms in C++ and build responsive,
+user-focused web applications using modern frontend technologies. Alongside development, I’m strengthening my foundation
+in AI/ML to create intelligent, scalable solutions. I’m passionate about combining web technologies with AI to build impactful, real-world applications.
 
 ## Technical Skills
 
