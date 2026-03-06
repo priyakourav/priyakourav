@@ -19,7 +19,7 @@ in AI/ML to create intelligent, scalable solutions. I’m passionate about combi
 C++, Python, C, HTML, CSS, JavaScript(currently working on it ) 
 
 **AI & ML Libraries:**  
- NumPy ,Pandas (learning)
+ NumPy, Pandas (learning) , Deep Learning fundamentals , Gen AI
 
 **Web Development:**  
 HTML, CSS, JavaScript (currently deepening my JavaScript skills)
