@@ -61,7 +61,7 @@ A console-based C++ project demonstrating basic OOP and file handling — simula
 
 I regularly practice and build projects to strengthen my coding fundamentals:
 
-- **DSA_Leetcode** – DSA problem practice in C++  
+- **DSA_Leetcode** – DSA problem practice in C++ ( 100+ problems solved )
 - **Admin_dashboard** – Dashboard UI with HTML  
 - **3D_LAYER_HOVER / CSS-Practice / glassmorphism-css-ui** – UI design and CSS experiments
 
