@@ -28,7 +28,7 @@ HTML, CSS, JavaScript (currently deepening my JavaScript skills)
 VS Code, Git & GitHub, LeetCode , Hackerrank
 
 **Core CS Fundamentals:**  
-Object-Oriented Programming, Operating Systems, Basic fundamentals of DBMS
+Object-Oriented Programming, Operating Systems, Basic fundamentals of DBMS , Computer Network
 
 
 ##  Featured Projects
