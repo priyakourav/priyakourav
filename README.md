@@ -5,7 +5,6 @@
 📧 priyakourav55@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/priyakourav
 
-
 ##  About Me
 
 I’m a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, with a strong interest in
@@ -32,7 +31,6 @@ Object-Oriented Programming, Operating Systems, Basic fundamentals of DBMS , Com
 
 
 ##  Featured Projects
-
 Here are some of my meaningful personal projects that reflect my learning and skills:
 
 ###  **CNN Image Identification**
