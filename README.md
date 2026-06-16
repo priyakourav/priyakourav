@@ -15,19 +15,19 @@ in AI/ML to create intelligent, scalable solutions. I’m passionate about combi
 ## Technical Skills
 
 **Programming Languages:**  
-C++, Python, C, HTML, CSS, JavaScript(currently working on it ) 
+C++, Python, C, HTML, CSS, JavaScript
 
 **AI & ML Libraries:**  
- NumPy, Pandas (learning) , Deep Learning fundamentals , Gen AI
+ NumPy, Pandas, Neural network concepts, Gen AI
 
 **Web Development:**  
-HTML,CSS,Bootstrap ,JavaScript (currently deepening my JavaScript skills)
+HTML,CSS,Bootstrap,JavaScript,React
 
 **Tools & Platforms:**  
 VS Code, Git & GitHub, LeetCode , Hackerrank
 
 **Core CS Fundamentals:**  
-Object-Oriented Programming, Operating Systems, Basic fundamentals of DBMS , Computer Network
+Object-Oriented Programming, Operating Systems, SQL
 
 
 ##  Featured Projects
@@ -59,7 +59,7 @@ A console-based C++ project demonstrating basic OOP and file handling — simula
 
 I regularly practice and build projects to strengthen my coding fundamentals:
 
-- **DSA_Leetcode** – DSA problem practice in C++ ( 100+ problems solved )
+- **DSA_Leetcode** – DSA problem practice in C++ ( 200+ problems solved )
 - **Admin_dashboard** – Dashboard UI with HTML  
 - **3D_LAYER_HOVER / CSS-Practice / glassmorphism-css-ui** – UI design and CSS experiments
 
