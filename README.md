@@ -15,10 +15,10 @@ in AI/ML to create intelligent, scalable solutions. I’m passionate about combi
 ## Technical Skills
 
 **Programming Languages:**  
-C++, Python, C, HTML, CSS, JavaScript
+C++ , Python , JavaScript
 
 **AI & ML Libraries:**  
- NumPy, Pandas, Neural network concepts, Gen AI
+Gen AI, NumPy, Pandas, Neural network concepts
 
 **Web Development:**  
 HTML,CSS,Bootstrap,JavaScript,React
@@ -36,12 +36,7 @@ Here are some of my meaningful personal projects that reflect my learning and sk
 ###  **CNN Image Identification**
 A Python-based machine learning project that uses Convolutional Neural Networks to identify and classify images.  
 **Tech:** Python, CNN, image preprocessing *(ML fundamentals applied)*  
-**Repo:** https://github.com/priyakourav/CNN-Image-Identification 
-
-###  **Extractive Text Summarization**
-An NLP project that extracts key sentences from text to generate concise summaries.  
-**Tech:** Python, Text Processing, NLP basics *(applied Python libraries and language processing logic)*  
-**Repo:** https://github.com/priyakourav/extractive-text-summarization 
+**Repo:** https://github.com/priyakourav/CNN-Image-Identification
 
 ###  **PORTFOLIO**
 My personal portfolio webpage demonstrating HTML, CSS, and foundational frontend skills.  
