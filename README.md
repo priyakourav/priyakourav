@@ -180,7 +180,7 @@ A console-based banking application developed in C++ that simulates core banking
 - C++
 - Object-Oriented Programming (OOP)
 
-🔗 **Repository:** [Bank Management System](https://github.com/priyakourav/Bank-Management-System)
+🔗 **Repository:** [View on GitHub](https://github.com/priyakourav/Bank-Management-System)
 
 ## 💡 Additional Practice Projects
 
