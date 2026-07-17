@@ -2,7 +2,8 @@
 
 # Hi 👋 I'm Priya Kourav
 
-### 💻 Software Developer | AI & ML Undergraduate | DSA Enthusiast
+### 💻 Aspiring Software Developer | AI & ML Student | Problem Solver
+
 
 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)  
 📍 Bhopal, India
