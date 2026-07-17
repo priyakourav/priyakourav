@@ -192,15 +192,10 @@ A console-based banking application developed in C++ that simulates core banking
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=priyakourav&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=priyakourav&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakourav&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyakourav&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 # 🎯 Career Objective
