@@ -111,48 +111,82 @@ Currently, I'm focused on:
 
 # 🚀 Featured Projects
 
-## 🖼️ CNN Image Identification
+## 🌐 Developer Portfolio
 
-A deep learning project that classifies images using **Convolutional Neural Networks (CNNs)** with Python.
+A modern and responsive developer portfolio built to showcase my projects, technical skills, certifications, and professional journey. The portfolio emphasizes clean UI, responsive design, SEO optimization, and smooth user experience.
 
 **Tech Stack**
+- Next.js
+- React
+- Tailwind CSS
+- JavaScript
 
-- Python
-- CNN
-- Image Preprocessing
-
-🔗 Repository:
-https://github.com/priyakourav/CNN-Image-Identification
+🔗 **Repository:**  
+https://github.com/priyakourav/PORTFOLIO
 
 ---
 
-## 🌐 Personal Portfolio
+## 💰 Smart Expense Tracker
 
-A responsive portfolio website showcasing my projects, skills, and technical journey.
+A responsive expense tracking application that helps users efficiently manage their daily finances by recording expenses, automatically categorizing transactions, visualizing spending trends through interactive charts, and securely storing data using browser local storage.
+
+**Key Features**
+- Add, edit, and delete expenses
+- Smart expense categorization
+- Interactive spending analytics
+- Persistent Local Storage
 
 **Tech Stack**
-
 - HTML
 - CSS
+- JavaScript
+- Chart.js
 
-🔗 Repository:
-https://github.com/priyakourav/PORTFOLIO
+🔗 **Repository:**  
+https://github.com/priyakourav/Expense-Tracker
+
+---
+
+## ✅ TaskFlow – Smart Task Management System
+
+A responsive task management application designed to improve productivity through intuitive task organization. It includes drag-and-drop functionality, task prioritization, filtering, dark mode, and persistent local storage for a seamless user experience.
+
+**Key Features**
+- Drag-and-drop task management
+- Priority levels & filtering
+- Dark mode support
+- Persistent Local Storage
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+- Local Storage
+
+🔗 **Repository:**  
+https://github.com/priyakourav/Taskflow
+
+🌐 **Live Demo:**  
+https://priyakourav.github.io/Taskflow/
 
 ---
 
 ## 🏦 Bank Management System
 
-A console-based banking application demonstrating **Object-Oriented Programming** and **File Handling** concepts.
+A console-based banking application developed in C++ that simulates core banking operations such as account creation, deposits, withdrawals, and customer record management while demonstrating object-oriented programming principles.
+
+**Key Features**
+- Create and manage accounts
+- Deposit & withdraw funds
+- Customer record management
+- File handling and OOP concepts
 
 **Tech Stack**
-
 - C++
-- OOP
-- File Handling
+- Object-Oriented Programming (OOP)
 
-🔗 Repository:
+🔗 **Repository:**  
 https://github.com/priyakourav/Bank-Management-System
-
 ---
 
 ## 💡 Additional Practice Projects
