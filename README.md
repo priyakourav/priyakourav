@@ -1,72 +1,212 @@
-# Hi 👋 I'm **Priya Kourav**
+<div align="center">
 
-🎓 **B.Tech in Computer Science & Engineering (AI & ML)** | 3rd Year  
-📍 Bhopal, India  
-📧 priyakourav55@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/priyakourav
+# Hi 👋 I'm Priya Kourav
 
-##  About Me
+### 💻 Software Developer | AI & ML Undergraduate | DSA Enthusiast
 
-I’m a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, with a strong interest in
-software development and problem-solving. I actively practice Data Structures and Algorithms in C++ and build responsive,
-user-focused web applications using modern frontend technologies. Alongside development, I’m strengthening my foundation
-in AI/ML to create intelligent, scalable solutions. I’m passionate about combining web technologies with AI to build impactful, real-world applications.
+🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)  
+📍 Bhopal, India
 
-## Technical Skills
+<p>
+<a href="https://www.linkedin.com/in/priyakourav">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-**Programming Languages:**  
-C++ , Python , JavaScript
+<a href="mailto:priyakourav55@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-**AI & ML Libraries:**  
-Gen AI, NumPy, Pandas, Neural network concepts
+<a href="https://leetcode.com/priyakourav/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-**Web Development:**  
-HTML,CSS,Bootstrap,JavaScript,React
+</p>
 
-**Tools & Platforms:**  
-VS Code, Git & GitHub, LeetCode , Hackerrank
+</div>
 
-**Core CS Fundamentals:**  
-Object-Oriented Programming, Operating Systems, SQL
+---
 
+# 👩‍💻 About Me
 
-##  Featured Projects
-Here are some of my meaningful personal projects that reflect my learning and skills:
+I'm a **Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning** with a passion for building scalable software and solving real-world problems.
 
-###  **CNN Image Identification**
-A Python-based machine learning project that uses Convolutional Neural Networks to identify and classify images.  
-**Tech:** Python, CNN, image preprocessing *(ML fundamentals applied)*  
-**Repo:** https://github.com/priyakourav/CNN-Image-Identification
+I enjoy developing responsive web applications, strengthening my Data Structures & Algorithms skills, and exploring AI technologies to create intelligent software solutions.
 
-###  **PORTFOLIO**
-My personal portfolio webpage demonstrating HTML, CSS, and foundational frontend skills.  
-It showcases my skills and projects with clean UI design.  
-**Tech:** HTML, CSS 
-**Repo:** https://github.com/priyakourav/PORTFOLIO 
+Currently, I'm focused on:
 
-### 🏦 **Bank Management System**
-A console-based C++ project demonstrating basic OOP and file handling — simulating bank operations.  
-**Tech:** C++, OOP fundamentals  
-**Repo:** https://github.com/priyakourav/Bank-Management-System 
+- 💻 Software Development
+- 🌐 Frontend Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧩 Data Structures & Algorithms in C++
+- 🚀 Building practical projects and continuously improving my development skills
 
+---
 
-## 📌 Additional Practice Work
+# 📊 Portfolio Highlights
 
-I regularly practice and build projects to strengthen my coding fundamentals:
+- 🚀 4+ Featured Projects
+- 🏆 8+ Professional Certifications
+- 💻 15+ Technologies & Development Tools
+- 🧩 Solved **230+ LeetCode Problems**
+- 🌱 Currently Exploring MERN Stack, System Design & AI Applications
 
-- **DSA_Leetcode** – DSA problem practice in C++ ( 200+ problems solved )
-- **Admin_dashboard** – Dashboard UI with HTML  
-- **3D_LAYER_HOVER / CSS-Practice / glassmorphism-css-ui** – UI design and CSS experiments
+---
 
+# 💻 Technical Skills
 
-##  Career Goal
+## Programming Languages
 
-My goal is to become a Software Developer with AI expertise, creating real-world applications that leverage artificial intelligence 
-to solve practical problems efficiently. I focus on combining strong coding skills with AI/ML techniques to deliver impactful software solutions.
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-## 📫 Connect With Me
+---
 
-📬 **Email:** priyakourav55@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/priyakourav  
-🔢 **LeetCode:** https://leetcode.com/priyakourav/  
+## Web Development
 
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+
+---
+
+## AI & ML
+
+- Python
+- NumPy
+- Pandas
+- CNN Fundamentals
+- Neural Network Concepts
+- Generative AI
+
+---
+
+## Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)
+
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)
+
+---
+
+## Core Computer Science
+
+- Object-Oriented Programming
+- Operating Systems
+- SQL
+- Data Structures & Algorithms
+
+---
+
+# 🚀 Featured Projects
+
+## 🖼️ CNN Image Identification
+
+A deep learning project that classifies images using **Convolutional Neural Networks (CNNs)** with Python.
+
+**Tech Stack**
+
+- Python
+- CNN
+- Image Preprocessing
+
+🔗 Repository:
+https://github.com/priyakourav/CNN-Image-Identification
+
+---
+
+## 🌐 Personal Portfolio
+
+A responsive portfolio website showcasing my projects, skills, and technical journey.
+
+**Tech Stack**
+
+- HTML
+- CSS
+
+🔗 Repository:
+https://github.com/priyakourav/PORTFOLIO
+
+---
+
+## 🏦 Bank Management System
+
+A console-based banking application demonstrating **Object-Oriented Programming** and **File Handling** concepts.
+
+**Tech Stack**
+
+- C++
+- OOP
+- File Handling
+
+🔗 Repository:
+https://github.com/priyakourav/Bank-Management-System
+
+---
+
+## 💡 Additional Practice Projects
+
+- 📊 Admin Dashboard
+- 🎨 Glassmorphism CSS UI
+- 🎯 CSS Practice Collection
+- ✨ 3D Layer Hover Effects
+- 🧩 DSA Practice Repository (230+ Problems)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyakourav&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=priyakourav&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakourav&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Career Objective
+
+I aspire to become a **Software Developer** who builds impactful, scalable, and user-centric applications by combining strong software engineering principles with Artificial Intelligence and Machine Learning.
+
+My long-term goal is to contribute to innovative products that solve meaningful real-world problems while continuously learning and growing as a developer.
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**  
+priyakourav55@gmail.com
+
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/priyakourav/
+
+💻 **LeetCode**  
+https://leetcode.com/priyakourav/
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code • Learn • Build • Improve • Repeat"*
+
+</div>
