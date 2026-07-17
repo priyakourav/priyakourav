@@ -121,8 +121,7 @@ A modern and responsive developer portfolio built to showcase my projects, techn
 - Tailwind CSS
 - JavaScript
 
-🔗 **Repository:**  
-https://github.com/priyakourav/PORTFOLIO
+🔗 **Repository:** [View on GitHub](https://github.com/priyakourav/PORTFOLIO)
 
 ---
 
@@ -142,8 +141,7 @@ A responsive expense tracking application that helps users efficiently manage th
 - JavaScript
 - Chart.js
 
-🔗 **Repository:**  
-https://github.com/priyakourav/Expense-Tracker
+🔗 **Repository:** [View on GitHub](https://github.com/priyakourav/Expense-Tracker)
 
 ---
 
@@ -163,11 +161,8 @@ A responsive task management application designed to improve productivity throug
 - JavaScript
 - Local Storage
 
-🔗 **Repository:**  
-https://github.com/priyakourav/Taskflow
-
-🌐 **Live Demo:**  
-https://priyakourav.github.io/Taskflow/
+🔗 **Repository:** [View on GitHub](https://github.com/priyakourav/Taskflow)  
+🌐 **Live Demo:** [Visit Website](https://priyakourav.github.io/Taskflow/)
 
 ---
 
