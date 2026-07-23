@@ -43,16 +43,6 @@ Currently, I'm focused on:
 
 ---
 
-# 📊 Portfolio Highlights
-
-- 🚀 4+ Featured Projects
-- 🏆 8+ Professional Certifications
-- 💻 15+ Technologies & Development Tools
-- 🧩 Solved **230+ LeetCode Problems**
-- 🌱 Currently Exploring MERN Stack, System Design & AI Applications
-
----
-
 # 💻 Technical Skills
 
 ## Programming Languages
@@ -182,14 +172,6 @@ A console-based banking application developed in C++ that simulates core banking
 - Object-Oriented Programming (OOP)
 
 🔗 **Repository:** [View on GitHub](https://github.com/priyakourav/Bank-Management-System)
-
-## 💡 Additional Practice Projects
-
-- 📊 Admin Dashboard
-- 🎨 Glassmorphism CSS UI
-- 🎯 CSS Practice Collection
-- ✨ 3D Layer Hover Effects
-- 🧩 DSA Practice Repository (230+ Problems)
 
 ---
 
