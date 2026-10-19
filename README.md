@@ -35,7 +35,6 @@
 ---
 
 ## 👩‍💻 `$ whoami`
-
 ```python
 class PriyaKourav:
 
